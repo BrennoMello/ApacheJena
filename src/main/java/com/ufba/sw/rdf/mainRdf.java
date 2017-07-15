@@ -23,7 +23,7 @@ public class mainRdf {
   
 
 
-  public static void main(String [] args){
+  public void temp(String [] args){
     /*  
     // some definitions
     String personURI = "http://somewhere/JohnSmith";
@@ -74,7 +74,7 @@ public class mainRdf {
         }
 
             System.out.println(" .");
-        } 
+     } 
 
     
   }
